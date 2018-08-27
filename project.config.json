@@ -1,0 +1,15 @@
+{
+	"description": "npm package download trend",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "touristappid",
+	"projectname": "mp-npm-download-trend",
+	"miniprogramRoot": "./dist",
+	"condition": {}
+}

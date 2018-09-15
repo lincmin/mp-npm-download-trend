@@ -17,7 +17,7 @@
   "author": "lincm69696@qq.com",
   "license": "MIT",
   "dependencies": {
-    "echarts": "^4.1.0",
+    "moment": "^2.22.2",
     "redux": "^3.7.2",
     "redux-actions": "^2.2.1",
     "redux-promise": "^0.5.3",
